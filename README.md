@@ -75,14 +75,11 @@
 
 
 <br>
-<img height="27" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/Spotify%20Playing%20-%20%F0%9F%8E%A7-yellow.svg" />
-
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/adarshguptamaurya35)
 
 
 <br>
 
-<h4 align="center">Show ❤️ By Starring My <a href='https://github.com/Adarsh1999'><img align='center'  height="22" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/Repos!%F0%9F%98%8A-purple.svg" /></a></h4>
+<h4 align="center">Show ❤️ By Starring My <a href='https://github.com/AshishShethia'><img align='center'  height="22" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/Repos!%F0%9F%98%8A-purple.svg" /></a></h4>
 
 <br>
 
@@ -91,19 +88,17 @@
 while(!(succeed=try()); )
 ```
 <br>
- <h4 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/Handshake.gif" height="30px"></h4> <br>
+ <h4 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://ashishshethiaportfolio.netlify.app" height="30px"></h4> <br>
 
-<a href="https://www.linkedin.com/in/👋-adarsh-gupta-447329154/">
+<a href="https://www.linkedin.com/in/ashish-shethia-3ba0951ab/">
   <img align="left" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/Linkedin%20(1).svg" alt="kushal's linkedin" width="24px" />
 </a>  
  
-<a href="https://www.instagram.com/theconqueror777/" target="blank">
+<a href="https://www.instagram.com/ashishshethia/" target="blank">
   <img align="left" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/Instagram%20(1).svg" alt="instagram" width="24px" />
 </a>
 
-<a href="https://www.youtube.com/channel/UC6RdqKo5p0OO1Aee325Q72w/featured" target="blank">
-  <img align="left" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/youtube-logo-icon-png-svg.png" alt="youtube"  width="25px" height='23.5' />
-</a>
+
 
 <br><br><br>
 
@@ -114,12 +109,3 @@ while(!(succeed=try()); )
 </details>  
 <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/marquee.svg"/> 
 
-<!-- ### Spotify Playing 🎧  ––>
-
-<!--[<img src="https://now-playing-beige-ten.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />(https://open.spotify.com/user/31s7xanqwwzldh72zkvp5km2nqn4)––>
-
-<details>
-  <summary>:zap: Most used languages</summary>
-
-<p><img align="left" src="https://github.com/Adarsh1999/adarsh1999/blob/main/images/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6b757368616c3939372d646173266c61796f75743d636f6d7061637426686964653d68.svg" /></p>
-</details> 
